@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Testimonials-slider/static/css/main.cba8bd2e.css",
+    "main.js": "/Testimonials-slider/static/js/main.b57f3400.js",
+    "static/media/mayur.jpeg": "/Testimonials-slider/static/media/mayur.d263be8c21da3d54848e.jpeg",
+    "static/media/harshad.jpeg": "/Testimonials-slider/static/media/harshad.4961ef86c549c309d8b8.jpeg",
+    "static/media/rohit.jpeg": "/Testimonials-slider/static/media/rohit.3c4ae7e525c3372ed34a.jpeg",
+    "static/media/chetan.jpeg": "/Testimonials-slider/static/media/chetan.ef3b8efc073794cc226a.jpeg",
+    "static/media/manoj.jpeg": "/Testimonials-slider/static/media/manoj.4d7050835e105ef743b2.jpeg",
+    "index.html": "/Testimonials-slider/index.html",
+    "main.cba8bd2e.css.map": "/Testimonials-slider/static/css/main.cba8bd2e.css.map",
+    "main.b57f3400.js.map": "/Testimonials-slider/static/js/main.b57f3400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba8bd2e.css",
+    "static/js/main.b57f3400.js"
+  ]
+}
